@@ -77,50 +77,66 @@ Click **“New Person”** to clear the form and start tracking another person�
 ---
 
 ## ⚙️ Installation & Setup
-
-### 🧩 Backend
-```
+###🧩 Backend
+----
 cd backend
-venv\Scripts\activate
 python manage.py migrate
 python manage.py runserver
-----
-Backend runs at:
-🔹http://127.0.0.1:8000/
-----
-API Endpoint:
-🔹http://127.0.0.1:8000/api/items/
-----
-**🎨 Frontend**
-🔹cd myapp
-🔹npm install
-🔹npm start
-----
-Frontend runs at:
- 🔹http://localhost:3000
-----
-**🧪 Features Tested**
-✔ Add new food items
-✔ Auto group by person
-✔ Live calorie totals
-✔ Mark items as done
-✔ Delete entries
-✔ Multi-person tracking
-----
-**🚀 Future Enhancements**
 
-🔹 User authentication
-🔹 Weekly & monthly calorie reports
-🔹 Nutrition breakdown (protein, carbs, fats)
-🔹 Cloud database
-🔹 Mobile responsive UI
 ----
-**🧠 Why This Project Matters**
-🔹This project demonstrates:
-🔹Full-stack development
-🔹REST API integration
-🔹React state management
-🔹Modern UI/UX
-🔹Clean backend architecture
+## 🌐 Backend
+
+**Backend runs at:**  
+🔹 http://127.0.0.1:8000/
+
+**API Endpoint:**  
+🔹 http://127.0.0.1:8000/api/items/
+
 ---
-Perfect for internships, interviews, and real-world projects 💼✨
+
+## 🎨 Frontend
+
+Run these commands:
+
+- 🔹 `cd myapp`
+- 🔹 `npm install`
+- 🔹 `npm start`
+
+**Frontend runs at:**  
+🔹 http://localhost:3000
+
+---
+
+## 🧪 Features Tested
+
+✔ Add new food items  
+✔ Auto group by person  
+✔ Live calorie totals  
+✔ Mark items as done  
+✔ Delete entries  
+✔ Multi-person tracking  
+
+---
+
+## 🚀 Future Enhancements
+
+🔹 User authentication  
+🔹 Weekly & monthly calorie reports  
+🔹 Nutrition breakdown (protein, carbs, fats)  
+🔹 Cloud database  
+🔹 Mobile responsive UI  
+
+---
+
+## 🧠 Why This Project Matters
+
+This project demonstrates:
+
+- Full-stack development  
+- REST API integration  
+- React state management  
+- Modern UI/UX  
+- Clean backend architecture
+
+✨ **Perfect for internships, interviews, and real-world projects** 💼
+
