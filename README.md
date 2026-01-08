@@ -1,4 +1,4 @@
-# 🥗 3D Grouped Diet Tracker ✨  
+# 🥗 Diet Tracker ✨  
 *A modern, intelligent diet planning web app*
 
 A high-performance **Diet Planning Application** built using a **Django REST Framework** backend and a **React.js** frontend.  
