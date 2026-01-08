@@ -80,7 +80,9 @@ Click **“New Person”** to clear the form and start tracking another person�
 ###🧩 Backend
 ----
 cd backend
+
 python manage.py migrate
+
 python manage.py runserver
 
 ----
