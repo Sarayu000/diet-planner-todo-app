@@ -91,7 +91,7 @@ Backend runs at:
 API Endpoint:
 🔹http://127.0.0.1:8000/api/items/
 ----
-🎨 Frontend
+**🎨 Frontend**
 🔹cd myapp
 🔹npm install
 🔹npm start
@@ -99,7 +99,7 @@ API Endpoint:
 Frontend runs at:
  🔹http://localhost:3000
 ----
-🧪 Features Tested
+**🧪 Features Tested**
 ✔ Add new food items
 ✔ Auto group by person
 ✔ Live calorie totals
@@ -107,7 +107,7 @@ Frontend runs at:
 ✔ Delete entries
 ✔ Multi-person tracking
 ----
-🚀 Future Enhancements
+**🚀 Future Enhancements**
 
 🔹 User authentication
 🔹 Weekly & monthly calorie reports
@@ -115,7 +115,7 @@ Frontend runs at:
 🔹 Cloud database
 🔹 Mobile responsive UI
 ----
-🧠 Why This Project Matters
+**🧠 Why This Project Matters**
 🔹This project demonstrates:
 🔹Full-stack development
 🔹REST API integration
